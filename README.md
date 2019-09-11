@@ -10,8 +10,8 @@ The Codes, Teachings, Analyses and Understandings have been taught as part of a 
 ## Intended Use of this Material
 This material is being used only for teaching/training/sharing knowledge/creating awareness of Python and its applications in the field of Data Analysis and has been created and shared for this sole reason entirely.
 
-# Note
+## Note
 Any and all queries that may arise while reading/learning from this introduction should be directed towards the owner of this repository only. 
 
-# Contact Information
+## Contact Information
 Can be emailed achilles.saxby@gmail.com
