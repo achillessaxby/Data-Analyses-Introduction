@@ -18,3 +18,9 @@ Any and all queries that may arise while reading/learning from this introduction
 
 ## Contact Information
 ID - achilles.saxby@gmail.com
+
+#### Important Information to Keep in Mind for the Software Installation File/Document Needed
+- This file is located in "2. Lesson-00:01:02"
+- Please download the ".pdf" file from the Repository by clicking the file first and then downloading the document
+- The hyperlinks will work only when the file is downloaded onto your computer
+- This must be your first step before you start with any of the codes in the lessons (the software is needed to run the codes)
