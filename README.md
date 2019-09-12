@@ -2,13 +2,14 @@
 Introductory Material for Data Analyses Understanding
 
 #### Important Information to Keep in Mind for the Software Installation File/Document Needed
-- The software download file is located in "2. Lesson-00:01:02"
-- Please download the ".pdf" file from the Repository by clicking the file first and then downloading the document
+- The software download file is located in "1. Introduction"
+- Please download the "1. Software_Installation.pdf" file from the repository by clicking the file first and then downloading the document
 - The hyperlinks will work only when the file is downloaded onto your computer
 - This must be your first step before you start with any of the codes in the lessons (the software is needed to run the codes)
+- Once downloaded, move on to the next document "2. Task_Assessment.pdf" and follow the instructions there
 
 #### Guiding yourself through the Course
-- Once the software is installed and working as shown in the PDF document in "2. Lesson-00:01:02"
+- After the assessment is complete and the software is installed and working as shown in the PDF document, you're ready
 - The complete course can be downloaded from GitHub by Cloning/Downloading the Zip File onto your Computers
 - Once downloaded, the course can be completed as per the numbered lessons' order (1/2/3/4/5/6/7)
 - Please do not hesitate to reach out or ask for help during any stage of this course
